@@ -1,0 +1,7 @@
+{
+  "name": "ionic-kepeg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
