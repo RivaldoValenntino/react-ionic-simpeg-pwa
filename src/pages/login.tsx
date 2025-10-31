@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import {
   IonPage,
   IonContent,
@@ -15,7 +16,6 @@ import {
   IonLoading,
   useIonRouter,
 } from "@ionic/react";
-import { useHistory } from "react-router";
 import IlustrasiLogin from "../assets/images/ic_masuk_akun.svg";
 import "../css/login.css";
 import { useEffect, useRef, useState } from "react";
